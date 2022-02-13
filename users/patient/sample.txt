@@ -1,0 +1,85 @@
+<div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
+            <h1 class="h2">Please fill up the form :</h1>
+          </div>
+            
+
+          <div class="container">
+            <div class="row pt-5">
+
+              <div class="col-5">
+                Visiting Day :
+              </div>
+
+              <div class="">
+                <input type="text" name="day" value="" placeholder="Type day only"> 
+              </div>
+
+
+            </div>
+
+            <div class="row pt-1"> <div class="col-5"> </div> <div class="">  </div> </div>
+
+
+
+
+            <div class="row pt-3">
+
+              <div class="col-5">
+                Visiting Time :
+              </div>
+
+              <div class="">
+                <input type="time" name="time" value=""> <span style="color:blue;">  </span>
+              </div>
+
+
+            </div>
+
+            <div class="row pt-1"> <div class="col-5"> </div> <div class=""> <span style="color:red;"> </span> </div> </div>
+
+
+            <div class="row pt-3">
+
+              <div class="col-5">
+                Visiting Date :
+              </div>
+
+              <div class="">
+                <input type="date" name="date" value="">
+              </div>
+
+
+            </div>
+
+            <div class="row pt-1"> <div class="col-5"> </div> <div class="">  </div> </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            <div class="row pt-5 pb-5 ">
+
+              <div class="col-12 text-center align-items-center"  >
+                  <button name="nxt_btn" class="btn btn-primary btn-lg" type="submit" > Next </button>   <button name="bck_btn" class="btn btn-primary btn-lg" type="submit" > Back </button>
+            </div>
+            </div>
+
+
+
+
+
+
+
+
+          </div>
+       
+
